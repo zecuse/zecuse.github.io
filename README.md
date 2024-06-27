@@ -6,6 +6,7 @@
 
 - [Source](https://github.com/zecuse/BPMTapper)
 - [Docs](https://zecuse.github.io/BPMTapper/) - generated via dokka
+- [Privacy Policy](https://zecuse.github.io/PrivacyPolicies/BPM%20Tapper/policy.html)
 
 ## Random things
 
