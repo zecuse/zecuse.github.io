@@ -2,8 +2,14 @@
 
 ## Android
 
-- [BPM Tapper](https://zecuse.github.io/BPMTapper/)
+### BPM Tapper
+
+- [Source](https://github.com/zecuse/BPMTapper)
+- [Docs](https://zecuse.github.io/BPMTapper/) - generated via dokka
 
 ## Random things
 
-- [Algorithms](https://zecuse.github.io/Algorithms/)
+### Algorithms
+
+- [Source](https://github.com/zecuse/Algorithms)
+- [Docs](https://zecuse.github.io/Algorithms/) - generated via doxygen
