@@ -16,6 +16,7 @@
 - [Source](https://github.com/zecuse/BPMTapper)
 - [Docs](https://zecuse.github.io/BPMTapper/) - generated via dokka
 - [Privacy Policy](https://zecuse.github.io/PrivacyPolicies/BPM%20Tapper/policy.html)
+- [Play Store](https://play.google.com/store/apps/details?id=com.bpmtapper)
 
 ## Random things
 
